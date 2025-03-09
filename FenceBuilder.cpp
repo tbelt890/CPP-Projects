@@ -49,9 +49,6 @@ using namespace std;
 				cout<<"-"<<setw((nsc-1)*3)<<"-"<<endl;
 				cout<<":"<<setw((nsc-1)*3)<<":"<<endl;
 		}
-		//cout<<board1<<endl;
-		
-//		cout<<":   "<<setw(nsc)":"<<endl;
 		
 		
 		for (int count1 = 1; count1 <= nsc; ++count1)
