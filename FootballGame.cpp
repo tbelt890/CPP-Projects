@@ -1,4 +1,4 @@
-//Trevor Belt Semester 1 k0446739
+
 #include <iostream>
 #include <cctype>
 #include <string>
